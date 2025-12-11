@@ -62,7 +62,7 @@ python run_llm.py <model_path> <data_path> [options]
 bash run-all_exp.sh
 ```
 
-> **Note:** The `run_vllm.py` script provides an alternative inference implementation using [vLLM](https://github.com/vllm-project/vllm) for faster inference. This was not used in the paper experiments but is included for reference.
+**Note:** The `run_vllm.py` script provides an alternative inference implementation using [vLLM](https://github.com/vllm-project/vllm) for faster inference. This was not used in the paper experiments but is included for reference.
 
 ### 3. Evaluate Results
 
