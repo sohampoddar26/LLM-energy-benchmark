@@ -1,6 +1,6 @@
 # LLM Energy Benchmark
 
-Codes used for the paper **"Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models"**, accepted at NAACL 2025.
+Codes used for the paper **"[Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models](https://aclanthology.org/2025.naacl-long.632/)"**, accepted at NAACL 2025.
 
 This repository provides tools for benchmarking energy consumption during LLM inference across various NLP tasks. The codebase enables:
 
